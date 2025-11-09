@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Windows_mcp三步快速部署
 
 下载node.js
@@ -87,3 +88,7 @@ uv run python main.py
 
 # 现在就可以开始使用啦~
 
+=======
+# WindowsMCP_Instruction_Manual
+Just three steps, teach you how to easily deploy Windows MCP services locally
+>>>>>>> 5c4d2977402d073bdb07381e12f14fd31b247132
